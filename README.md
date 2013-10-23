@@ -1,11 +1,11 @@
-## linq
+## LINQJS-AMD
 [linq.js](http://linqjs.codeplex.com/) - LINQ for JavaScript library packaged for node.js
 
 This contains only the core library without the jquery or rx bindings.
 
-### Installation
+### Installation using [Bower package manager](https://github.com/bower/bower):
 
-    npm install linq
+    bower install linqjs-amd
 
 ### Examples
 
